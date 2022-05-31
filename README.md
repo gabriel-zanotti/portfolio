@@ -1,14 +1,3 @@
-<style>
-a {
-  text-decoration: none;
-  background-color: blue;
-}
-
-
-
-</style>
-
-
 <h1>Portólio para Estudo</h1>
 <h5>Tecnlogias utilizadas:</h5>
 <ul>
@@ -18,4 +7,4 @@ a {
   <li>JavaScript</li>
 </ul>
   
-<p>Clique no botão para visualizar o site: <a href="https://portfolio-gabriel-zanotti.netlify.app/" target="_blank">Portfólio</a></p>
+<p>Clique no link para visualizar o site: <a href="https://portfolio-gabriel-zanotti.netlify.app/" target="_blank">Portfólio</a></p>
