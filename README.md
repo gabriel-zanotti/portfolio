@@ -1,4 +1,7 @@
 <h1>Portólio para Estudo</h1>
+
+<p>Neste projeto eu desenvolvi um simples portfólio, com as tecnologias que tenho estudado nos últimos tempos. O design responsivo ainda não esta feito. EM breve farei novas atualizações e implementações.</p>
+
 <h5>Tecnlogias utilizadas:</h5>
 <ul>
   <li>HTML5</li>
