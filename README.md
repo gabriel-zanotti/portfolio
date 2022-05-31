@@ -7,4 +7,4 @@
   <li>JavaScript</li>
 </ul>
   
-<p>Clique no botão para visualizar o site: <a href="https://portfolio-gabriel-zanotti.netlify.app/" target="_blank"></a></p>
+<p>Clique no botão para visualizar o site: <a href="https://portfolio-gabriel-zanotti.netlify.app/" target="_blank">Portfólio</a></p>
