@@ -5,3 +5,6 @@
   <li>CSS3</li>
   <li>Bootstrap 5</li>
   <li>JavaScript</li>
+</ul>
+  
+<p>Clique no botão para visualizar o site: <a href="https://portfolio-gabriel-zanotti.netlify.app/" target="_blank"></a></p>
